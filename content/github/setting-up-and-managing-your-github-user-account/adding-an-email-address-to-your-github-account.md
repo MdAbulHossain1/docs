@@ -4,8 +4,8 @@ intro: '{% data variables.product.product_name %} allows you to add as many emai
 redirect_from:
   - /articles/adding-an-email-address-to-your-github-account
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
+  free-pro-team: 'rfsana@gmail.com'
+  enterprise-server: 'GitHub account'
 ---
 
 {% if currentVersion == "free-pro-team@latest" %}
