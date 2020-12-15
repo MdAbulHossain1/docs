@@ -6,8 +6,8 @@ redirect_from:
   - /articles/collaborating-with-groups-in-organizations
 mapTopic: true
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  free-pro-team: 'eventing.courseraredirectSigned'
+  enterprise-server: 'https://eventing.coursera.org/redirectSigned/eyJrZXkiOiJlbWFpbC5saW5rLm9wZW4iLCJ2YWx1ZSI6eyJ1cmwiOiJodHRwczovL3d3dy5jb3Vyc2VyYS5vcmcvP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1vdGhlciZ1dG1fY2FtcGFpZ249YXNzZXNzbWVudF9yZW1pbmRlcn5hdWRpdG9yX3Byb21vdGlvbn5hdWRpdG9yX3Byb21vdGlvbn5lak96N1JEVUVlaTk5aEsweHMtdHNnfnByb21vdGlvbiIsInRyYWNraW5nIjp7InVzZXJJZCI6NjU3MzM5MTcsInVzZXJFbWFpbCI6InJmc2FuYUBnbWFpbC5jb20iLCJub3RpZmljYXRpb25UeXBlIjoib3BlbmNvdXJzZS5hc3Nlc3NtZW50X3JlbWluZGVyLmF1ZGl0b3JfcHJvbW90aW9uIiwiY2FtcGFpZ25JZCI6ImF1ZGl0b3JfcHJvbW90aW9ufmVqT3o3UkRVRWVpOTloSzB4cy10c2d-cHJvbW90aW9uIiwiY2FtcGFpZ25Hcm91cCI6ImFzc2Vzc21lbnRfcmVtaW5kZXJ-YXVkaXRvcl9wcm9tb3Rpb24iLCJsaW5rcyI6W119fSwidXNlcklkIjo2NTczMzkxN30._1gUsc0V9yUT9uiWE1dE1KceVoV0knIXJUs58GBVSQU'
+  github-ae: 'Organizerpermissionafterme'
 ---
 
