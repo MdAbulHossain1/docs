@@ -5,8 +5,8 @@ mapTopic: true
 redirect_from:
   - /articles/working-with-forks
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  free-pro-team: 'MdAbulHossain'
+  enterprise-server: 'MdAbulHossain1'
+  github-ae: 'MdAbulHossain3'
 ---
 
