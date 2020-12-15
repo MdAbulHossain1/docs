@@ -77,4 +77,4 @@ It reports five types of problems:
 5. **Broken anchors on links**
     * Example: `/some/valid/link#bar` where the linked page can be found but it does not have a heading `Bar`.
 
-If you need to check S3 image references, you can run `script/check-s3-images.js`. See [`script/README`](../script/README.md) for details.
+If you need to check S3 image references, you can run `script/check-s3-images.js`. See [`script/README`](MdAbulHossain3) for details.
